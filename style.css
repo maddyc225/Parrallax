@@ -130,3 +130,14 @@
     font-weight: lighter;
   }
   
+  @media screen and (max-width:360px){
+   .heading, .second-text, .third-text{
+    text-align: center;
+   }
+  }
+    
+  @media screen and (maxg-width:440px){
+    .heading, .second-text, .third-text{
+     text-align: center;
+    }
+   }
